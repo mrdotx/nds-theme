@@ -18,7 +18,7 @@ Buy games and use flashcards to play homebrew or copies you made yourself from y
 
 # hint
 
-If you want to create your own graphics, open your designed graphic in GIMP and export it to a 16 Bit Windows-Bitmap with:
+If you want to create your own graphics for the wood firmware, open your designed graphic in GIMP and export it to a 16 Bit Windows-Bitmap with:
 
 *File -> Export As... -> Windows-Bitmap -> RGB format: 16 Bit (X1 R5 G5 B5)*
 
