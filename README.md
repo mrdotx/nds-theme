@@ -1,6 +1,6 @@
 # nds-themes
 
-nds themes for various sd card adapter firmwares
+nds themes for various homebrew enabling flashcard/adapter firmwares
 
 | firmware | theme     | image                                                               |
 | :------- | :-------- | :------------------------------------------------------------------ |
