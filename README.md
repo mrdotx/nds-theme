@@ -4,7 +4,7 @@ nds themes for various sd card adapter firmwares
 
 | firmware | theme     | image                                                               |
 | :------- | :-------- | :------------------------------------------------------------------ |
-| wood     | klassiker | ![wood](images/wood.png) ![wood settings](images/wood_settings.png) |
+| wood     | klassiker | ![wood](images/wood.jpg) ![wood settings](images/wood_settings.jpg) |
 
 ## background image by
 
