@@ -1,6 +1,6 @@
-# nds-themes
+# nds-theme
 
-nds themes for various homebrew enabling flashcard firmwares
+dark blue nds theme for various homebrew enabling flashcard firmwares
 
 | firmware | theme     | image                                                               |
 | :------- | :-------- | :------------------------------------------------------------------ |
