@@ -4,6 +4,7 @@ dark blue nds theme for various homebrew enabling flashcard firmwares
 
 | firmware | theme     | image                                                               |
 | :------- | :-------- | :------------------------------------------------------------------ |
+| r4       | klassiker | ![r4](images/r4.jpg) ![r4 games](images/r4_games.jpg)               |
 | wood     | klassiker | ![wood](images/wood.jpg) ![wood settings](images/wood_settings.jpg) |
 | ysmenu   | klassiker | ![ysmenu](images/ysmenu.jpg)                                        |
 
